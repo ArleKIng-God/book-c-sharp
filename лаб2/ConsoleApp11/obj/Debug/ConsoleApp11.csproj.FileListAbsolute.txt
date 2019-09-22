@@ -1,0 +1,6 @@
+D:\c#\лаб2\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\c#\лаб2\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\c#\лаб2\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\c#\лаб2\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\c#\лаб2\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\c#\лаб2\ConsoleApp11\obj\Debug\ConsoleApp11.pdb

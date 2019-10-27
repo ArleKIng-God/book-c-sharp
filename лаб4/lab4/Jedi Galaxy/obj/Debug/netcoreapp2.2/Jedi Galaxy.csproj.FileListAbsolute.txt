@@ -1,0 +1,11 @@
+D:\c#\лаб4\lab4\Jedi Galaxy\bin\Debug\netcoreapp2.2\Jedi Galaxy.deps.json
+D:\c#\лаб4\lab4\Jedi Galaxy\bin\Debug\netcoreapp2.2\Jedi Galaxy.runtimeconfig.json
+D:\c#\лаб4\lab4\Jedi Galaxy\bin\Debug\netcoreapp2.2\Jedi Galaxy.runtimeconfig.dev.json
+D:\c#\лаб4\lab4\Jedi Galaxy\bin\Debug\netcoreapp2.2\Jedi Galaxy.dll
+D:\c#\лаб4\lab4\Jedi Galaxy\bin\Debug\netcoreapp2.2\Jedi Galaxy.pdb
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.csprojAssemblyReference.cache
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.csproj.CoreCompileInputs.cache
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.AssemblyInfoInputs.cache
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.AssemblyInfo.cs
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.dll
+D:\c#\лаб4\lab4\Jedi Galaxy\obj\Debug\netcoreapp2.2\Jedi Galaxy.pdb

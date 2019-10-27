@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars Salesman", "Cars Salesman\Cars Salesman.csproj", "{2D52877C-8FD6-40D6-84C4-DF902ADFE630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JediGalaxyy", "JediGalaxyy\JediGalaxyy.csproj", "{9F930BF9-0C9D-4C16-9533-8DBA5BBCA256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{55870499-7399-4013-8B73-98ACA2ED8667}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Raw_Data", "C:\Users\Василь\Desktop\1_Raw_Data\1_Raw_Data.csproj", "{710B9E8E-0D11-40BB-8C6C-E059B148EE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D52877C-8FD6-40D6-84C4-DF902ADFE630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D52877C-8FD6-40D6-84C4-DF902ADFE630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D52877C-8FD6-40D6-84C4-DF902ADFE630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D52877C-8FD6-40D6-84C4-DF902ADFE630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F930BF9-0C9D-4C16-9533-8DBA5BBCA256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F930BF9-0C9D-4C16-9533-8DBA5BBCA256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F930BF9-0C9D-4C16-9533-8DBA5BBCA256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F930BF9-0C9D-4C16-9533-8DBA5BBCA256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55870499-7399-4013-8B73-98ACA2ED8667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55870499-7399-4013-8B73-98ACA2ED8667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55870499-7399-4013-8B73-98ACA2ED8667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55870499-7399-4013-8B73-98ACA2ED8667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710B9E8E-0D11-40BB-8C6C-E059B148EE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710B9E8E-0D11-40BB-8C6C-E059B148EE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710B9E8E-0D11-40BB-8C6C-E059B148EE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710B9E8E-0D11-40BB-8C6C-E059B148EE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741CAFC8-FDCE-45C3-8AB1-A05AE4CC7BCB}
+	EndGlobalSection
+EndGlobal

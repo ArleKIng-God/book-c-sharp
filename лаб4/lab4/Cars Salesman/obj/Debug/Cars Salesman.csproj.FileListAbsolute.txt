@@ -1,0 +1,7 @@
+D:\c#\лаб4\lab4\Cars Salesman\bin\Debug\Cars Salesman.exe.config
+D:\c#\лаб4\lab4\Cars Salesman\bin\Debug\Cars Salesman.exe
+D:\c#\лаб4\lab4\Cars Salesman\bin\Debug\Cars Salesman.pdb
+D:\c#\лаб4\lab4\Cars Salesman\obj\Debug\Cars Salesman.csprojAssemblyReference.cache
+D:\c#\лаб4\lab4\Cars Salesman\obj\Debug\Cars Salesman.csproj.CoreCompileInputs.cache
+D:\c#\лаб4\lab4\Cars Salesman\obj\Debug\Cars Salesman.exe
+D:\c#\лаб4\lab4\Cars Salesman\obj\Debug\Cars Salesman.pdb

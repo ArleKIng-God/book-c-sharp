@@ -1,0 +1,7 @@
+D:\c#\лаб4\lab4\JediGalaxyy\bin\Debug\JediGalaxyy.exe.config
+D:\c#\лаб4\lab4\JediGalaxyy\bin\Debug\JediGalaxyy.exe
+D:\c#\лаб4\lab4\JediGalaxyy\bin\Debug\JediGalaxyy.pdb
+D:\c#\лаб4\lab4\JediGalaxyy\obj\Debug\JediGalaxyy.csprojAssemblyReference.cache
+D:\c#\лаб4\lab4\JediGalaxyy\obj\Debug\JediGalaxyy.csproj.CoreCompileInputs.cache
+D:\c#\лаб4\lab4\JediGalaxyy\obj\Debug\JediGalaxyy.exe
+D:\c#\лаб4\lab4\JediGalaxyy\obj\Debug\JediGalaxyy.pdb

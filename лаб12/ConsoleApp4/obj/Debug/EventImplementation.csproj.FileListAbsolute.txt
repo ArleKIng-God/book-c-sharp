@@ -1,0 +1,7 @@
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\EventImplementation.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Василь\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

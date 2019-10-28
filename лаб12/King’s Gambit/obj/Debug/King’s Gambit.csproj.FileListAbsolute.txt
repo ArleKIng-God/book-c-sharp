@@ -1,0 +1,7 @@
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\bin\Debug\King’s Gambit.exe.config
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\bin\Debug\King’s Gambit.exe
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\bin\Debug\King’s Gambit.pdb
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\obj\Debug\King’s Gambit.csprojAssemblyReference.cache
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\obj\Debug\King’s Gambit.csproj.CoreCompileInputs.cache
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\obj\Debug\King’s Gambit.exe
+C:\Users\Василь\source\repos\ConsoleApp4\King’s Gambit\obj\Debug\King’s Gambit.pdb
